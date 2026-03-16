@@ -1,4 +1,10 @@
+![Java](https://img.shields.io/badge/Language-Java-blue)
+![System](https://img.shields.io/badge/System-Inventory%20Management-green)
+![Status](https://img.shields.io/badge/Project-Completed-orange)
+
+
 📦 Inventory Management System
+
 
 
 📌 Project Overview
